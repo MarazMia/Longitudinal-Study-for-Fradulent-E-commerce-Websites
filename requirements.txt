@@ -1,0 +1,13 @@
+aiofiles==23.2.1
+aiohttp==3.9.5
+beautifulsoup4==4.12.3
+lxml==5.2.1
+nest_asyncio==1.6.0
+pandas==2.2.2
+playwright==1.44.0
+requests==2.32.3
+tldextract==5.1.2
+tqdm==4.67.1.
+scikit-learn==1.7.0
+xgboost==3.0.2
+lightgbm==4.6.0
