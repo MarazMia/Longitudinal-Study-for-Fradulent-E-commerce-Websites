@@ -13,4 +13,5 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass
 
 or the activate_venv_lin.sh (in linux) to activate the virtual environment. 
 
-Running the test_playwright_crawler.py file -> python scripts/test_playwright_crawler.py
+Running the page contents crawler file -> python scripts/test_playwright_crawler.py
+Running the e-commerce website detector file -> python .\scripts\predict_e-commerce.py
